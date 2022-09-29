@@ -1,0 +1,154 @@
+{
+    "product": [
+        {
+            "id": 101,
+            "name": "Realme 8",
+            "comapny": "Realme",
+            "price": 18000
+        },
+        {
+            "id": 102,
+            "name": "Redmi 10",
+            "comapny": "Redmi",
+            "price": 12500
+        },
+        {
+            "id": 103,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 104,
+            "name": "Vivo V20",
+            "comapny": "Vivo",
+            "price": 25000
+        },
+        {
+            "id": 105,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 106,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 107,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 108,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 109,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 110,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 111,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 112,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 113,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 114,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 115,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 116,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 117,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 118,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 119,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 120,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 121,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 122,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 123,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 124,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        },
+        {
+            "id": 125,
+            "name": "Samsung F65",
+            "comapny": "Samsung",
+            "price": 22000
+        }
+    ]
+}
